@@ -1,2 +1,2 @@
 # data_science
-Personal Practice
+Personal practice of data science related algorithms and machine learning models.
