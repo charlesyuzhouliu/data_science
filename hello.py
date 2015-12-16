@@ -1,3 +1,4 @@
 def hello(x):
-	print (x)
+	if x < 10:
+		print (x)
 	
